@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-# AI-Powered Contract Review and Approval Workflow
+# Review contract risks and route approvals with Google Drive, OpenAI, and Gmail
 
 Intuz helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch.
 
